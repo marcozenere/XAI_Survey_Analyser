@@ -17,6 +17,11 @@ in case you are using Jupyter lab, otherwise:
 ```
 $ jupyter notebook
 ```
+### Binder
+
+In order to run the software in Binder, click the banner below.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcozenere/XAI_Survey_Analyser/main?urlpath=voila%2Frender%2FXAI_Questionnaire_Analyser.ipynb)
 
 ## Required Libraries
 
@@ -26,4 +31,5 @@ $ jupyter notebook
 - urllib
 - Ipython
 - numpy
-- Plotly
+- plotly
+
