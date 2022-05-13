@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+ipython
+gspread
+voila
+plotly
