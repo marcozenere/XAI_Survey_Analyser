@@ -23,6 +23,10 @@ In order to run the software in Binder, click the banner below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcozenere/XAI_Survey_Analyser/main?urlpath=voila%2Frender%2FXAI_Questionnaire_Analyser.ipynb)
 
+## Interface Example
+
+An example of the software's interface can be found in the HTML file XAI_Questionnaire_Analyser.html available in this repository.
+
 ## Required Libraries
 
 - gspread
